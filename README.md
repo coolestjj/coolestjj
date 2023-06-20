@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @coolestjj
 - cooljj is also fine
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 1009839598@qq.com
+- B.E. at Southern University of Science and Technology(SUSTech)
+- Majoring in Computer Science
+- 📫 Github email: 1009839598@qq.com
+- 📫 SUSTech email: 11912021@mail.sustech.edu.cn
 
 <!---
 coolestjj/coolestjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
