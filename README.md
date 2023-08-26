@@ -3,6 +3,7 @@
 - Majoring in Computer Science
 - 📫 Github email: 1009839598@qq.com
 - 📫 SUSTech email: 11912021@mail.sustech.edu.cn
+- 📫 UIUC email: jiajunl8@illinois.edu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolestjj)](https://github.com/anuraghazra/github-readme-stats)
 
