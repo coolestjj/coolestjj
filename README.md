@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coolestjj, cooljj is also fine
-- B.E. at Southern University of Science and Technology(SUSTech)
-- Majoring in Computer Science
+- B.E. in Computer Science at Southern University of Science and Technology(SUSTech)
+- M.E. in Electrical and Computer Engineering at University of Illinois at Urbana-Champaign(UIUC)
 - 📫 Github email: 1009839598@qq.com
 - 📫 SUSTech email: 11912021@mail.sustech.edu.cn
 - 📫 UIUC email: jiajunl8@illinois.edu
